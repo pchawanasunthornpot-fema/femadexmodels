@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Ingestion"
-    id="id-d572a95c79fa466580fe1b0e31becabd"
-    documentation="FEMADex data-ingestion capabilities will enable users to transport data from FEMA source systems to multiple FEMADex single data lakes, where they will be able to access, use, and analyze the data."/>

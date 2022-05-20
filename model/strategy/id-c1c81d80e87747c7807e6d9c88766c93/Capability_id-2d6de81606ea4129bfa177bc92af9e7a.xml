@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Integration"
-    id="id-2d6de81606ea4129bfa177bc92af9e7a"
-    documentation="FEMADex data-integration capabilities will enable users to combine data from disparate source systems through a combination of technical and FEMA business processes. Through integration, data will be able to be transformed into meaningful information that will then serve as the foundation for the next step in the data-analytics pipeline."/>
