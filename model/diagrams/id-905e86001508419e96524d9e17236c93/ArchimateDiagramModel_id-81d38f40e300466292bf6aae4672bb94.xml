@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Operations from Personal to Team workspace Activity Model (Decomposition/Structure)"
-    id="id-81d38f40e300466292bf6aae4672bb94">
+    id="id-81d38f40e300466292bf6aae4672bb94"
+    documentation="Test documentation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-1500700f1706433fbf6b2f9e17c3c3b6"
