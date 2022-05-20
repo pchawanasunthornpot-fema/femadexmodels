@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Transformation"
+    id="id-7fdcee65bfb847ca9bbb0abf59d3e2c7"
+    documentation="FEMADex users will be able to transform the integrated data from the previous step and use it in an array of business processes. Examples of data-transformation activities include using data to make comparisons with other data sets, converting data types, removing duplicated data, aggregating data using formulas, and formatting data for a specific presentation."/>
