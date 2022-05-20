@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Availability must be greater than 99.5%"
+    id="id-6658355a99724683a0708c378d8e1690"/>

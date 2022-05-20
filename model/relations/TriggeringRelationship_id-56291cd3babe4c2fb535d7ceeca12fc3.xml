@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send Notification"
+    id="id-56291cd3babe4c2fb535d7ceeca12fc3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ecf0cbf39cbf46b7b2403728e8e18da0.xml#id-ecf0cbf39cbf46b7b2403728e8e18da0"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-0a1fa1f2aab54a73a2c97402b84cf2f3.xml#id-0a1fa1f2aab54a73a2c97402b84cf2f3"/>
+</archimate:TriggeringRelationship>
