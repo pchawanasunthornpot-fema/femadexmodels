@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Operations from Team to Enterprise workspace Activity Model (Decomposition/Structure)"
+    id="id-1f8291649bec406895882978d4804a45">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9c1b90a0103e40868e609b7ae4ce4235">
+    <bounds
+        x="570"
+        y="192"
+        width="144"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-106ffa66c9984127b9c71f9aa35d4f8d.xml#id-106ffa66c9984127b9c71f9aa35d4f8d"/>
+  </children>
+</archimate:ArchimateDiagramModel>

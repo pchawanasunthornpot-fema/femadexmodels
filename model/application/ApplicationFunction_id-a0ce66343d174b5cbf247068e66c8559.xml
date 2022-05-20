@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEMA Source Systems on AWS"
+    id="id-a0ce66343d174b5cbf247068e66c8559"
+    documentation="Currently, there are FEMA systems that are running in AWS but not utilize FEC. For example, GMM, LSCMS, IA, etc."/>

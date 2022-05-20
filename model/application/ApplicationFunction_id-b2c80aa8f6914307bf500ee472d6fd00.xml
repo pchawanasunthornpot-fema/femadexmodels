@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEMA Source Systems on Azure"
+    id="id-b2c80aa8f6914307bf500ee472d6fd00"
+    documentation="Currently, there are FEMA systems that are running in Azure but not utilize FEC. For example, DTS, etc."/>

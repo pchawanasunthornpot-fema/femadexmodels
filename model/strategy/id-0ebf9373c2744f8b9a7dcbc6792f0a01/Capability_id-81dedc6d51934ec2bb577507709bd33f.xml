@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Storage"
+    id="id-81dedc6d51934ec2bb577507709bd33f"
+    documentation="This capability allows raw datasets from source systems to be stored before getting processed and transformed through the analytic pipeline."/>

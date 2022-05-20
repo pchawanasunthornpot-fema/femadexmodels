@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secured Direct Connection"
+    id="id-687513a3d2d6447293702720e6d1b411">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_id-41909d357d0a42ad91c77514928a7228.xml#id-41909d357d0a42ad91c77514928a7228"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-e8c56809477f4a0b912c8842006be5fd.xml#id-e8c56809477f4a0b912c8842006be5fd"/>
+</archimate:AssociationRelationship>

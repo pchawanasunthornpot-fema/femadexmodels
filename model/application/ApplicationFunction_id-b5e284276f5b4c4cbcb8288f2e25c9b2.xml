@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEMADex on AWS"
+    id="id-b5e284276f5b4c4cbcb8288f2e25c9b2"
+    documentation="FEMADex is the only FEMA system that utilizes FEMA Enterprise Cloud (FEC) as of 4/28/2022.&#xD;&#xA;FEMADex is planned to be deployed on FCE AWS after FY2023."/>

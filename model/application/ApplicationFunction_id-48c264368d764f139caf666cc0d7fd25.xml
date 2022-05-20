@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEMADex on Azure"
+    id="id-48c264368d764f139caf666cc0d7fd25"
+    documentation="FEMADex is the only FEMA system that utilizes FEMA Enterprise Cloud (FEC) as of 4/28/2022.&#xD;&#xA;FEMADex will be deployed on FCE Azure in FY2022."/>

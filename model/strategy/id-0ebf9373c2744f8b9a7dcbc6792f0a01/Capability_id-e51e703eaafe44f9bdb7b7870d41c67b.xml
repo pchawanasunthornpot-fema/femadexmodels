@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Dissemination"
+    id="id-e51e703eaafe44f9bdb7b7870d41c67b"
+    documentation="FEMADex users will be able to publish transformed data to other users in various formats."/>
